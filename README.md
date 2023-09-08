@@ -1,15 +1,10 @@
 ### Hi, I'm Ozge Sezen KIRCA 👋
 
-<!--
-**ozgesezen/ozgesezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m  working on Full Stack Development.
 - 🌱 I’m currently learning Java. 
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 📫 How to reach me: Email - ozgesezen@gmail.com
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
